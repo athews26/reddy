@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://st2.depositphotos.com/3628939/8904/v/600/depositphotos_89042040-stock-illustration-food-items-composition.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    margin:0;
+}
+.navbar{
+    overflow:hidden;
+    background-color: red;
+}
+.navbar a{
+    text-decoration: none;
+    display:block;
+    float:left;
+    padding:10px 40px 20px 40px;
+    text-align: center;
+    color:black;
+}
+.navbar a:hover{
+    background-color:green;
+    border-radius: 15px 90px;
+}
